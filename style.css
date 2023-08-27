@@ -1,0 +1,102 @@
+
+p
+{
+    font-size: 1.5em;
+    color: #333335;
+    width: 100%;
+    text-align: left;
+    margin-left: 0%;
+}
+
+hr
+{
+    font-size: 1.5em;
+    color: #333335;
+    width: 100%;
+    text-align: left;
+    margin-left: 0;
+}
+
+h1
+{
+    font-size: 1em;
+    color: blue;
+    width: 100%;
+    text-align: left;
+    margin-left: 0%;
+}
+
+img
+{
+    width: 20%;
+    border: 8px ridge black;
+}
+
+/*class red*/
+.red
+{
+    font-size: 1.5em;
+    background-color: rgb(97, 94, 94);
+    color: tomato;
+    width: 100%;
+}
+
+body
+{
+    font-size: 1.5em;
+    color: #333335;
+    background-color: hsl(0, 0%, 91%);
+    width: 100%;
+    text-align: left;
+    margin-left: 0;
+}
+
+pic
+{
+    width: 45%;
+    border: 2px solid whitesmoke;
+}
+
+/* unvisited link */
+a:link
+{
+    color: rgb(4, 4, 4);
+}
+/*
+// visited link
+a:visited
+{
+    color: rgb(67, 11, 141);
+}
+*/
+
+/* mouse over link */
+a:hover
+{
+    color: rgb(50, 133, 126);
+}
+
+/*
+//selected link
+a:active
+{
+    color: blue;
+}
+*/
+
+td
+{
+    width: 65px;
+    height: 65px;
+    border: 1.2px solid hsl(244, 38%, 32%);
+}
+
+.white
+{
+    background-color: white;
+}
+
+.black
+{
+    background-color: black;
+}
